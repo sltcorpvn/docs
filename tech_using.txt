@@ -1,0 +1,11 @@
+- Website SLTcorp: keystonejs
+  + Use package SEO
+
+- Product: framework sails.js
+  + real time
+  + MVC pattern
+  + APIs
+  + Express.js for handling HTTP requests
+  + support LESS, SASS, Stylus, coffeescript, jade, dust,...
+  + support any frontend approach: Angular, backbone, iOS/ObjC, android/java ...  
+  
