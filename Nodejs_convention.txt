@@ -78,6 +78,7 @@ Ví dụ:
 
 - Tránh viết dòng code dài hơn 80 từ đễ dễ đọc code.
 
-
+- Tên database: (environment)camelCase: stgCamelCase, devCamelCase, proCamelCase
+- Tên table trong database: camelCase có s ở cuối
 
 
