@@ -18,8 +18,8 @@ Ví dụ: function getUserInfo(){}
 - Đối với các private functoin: có dấu _ đầu tên.
 Ví dụ: _getFirst()
 
-- Tên variables: ngắn gọn, dễ hiểu. Viết thường, _ (gạch dưới) giữa các từ với nhau
-Ví dụ: number, username, password, delivery_note,... 
+- Tên variables: ngắn gọn, dễ hiểu, camelCase.
+Ví dụ: number, username, password, deliveryNote,... 
 
 - Đối với các array và object thì có chữ a ( array ) hoặc o (object) ở đầu để phân biệt.
 Ví dụ: aMenu, oUser.
