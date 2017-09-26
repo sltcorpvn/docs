@@ -3,7 +3,8 @@ Qui tắc đặt tên trong nodejs: (dùng tiếng anh để đặt tên)
 - Tên thư mục: viết thường, có chữ 's' ở cuối. Ví dụ: controllers, models, views, js, css,...
 
 - Tên file: các từ đặt liên tiếp nhau, viết hoa các chữ cái đầu mỗi từ, trừ chữ cái của từ đầu tiên. 
-Ví dụ: loginController.js, userController.js
+Đối với controller/model file, thì đặt theo kiểu Pascal-case: viết hoa các chữ cái đầu tiên của từ.
+Ví dụ: LoginController.js, UserController.js
 
 - Tránh đặt tên file quá dài ( khoảng 30 từ ), nếu tên quá dài có thể viết tắt bằng các chữ cái đầu tiên mỗi từ và phải viết hoa.
 Ví dụ: LDAPAuth.js
